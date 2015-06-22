@@ -1,0 +1,24 @@
+{
+  "name": "showdown-katex",
+  "version": "0.0.5",
+  "description": "Katex support",
+  "main": "index.js",
+  "homepage": "https://github.com/wear/showdown-katex",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "katex",
+    "showdown"
+  ],
+  "author": "Stephen Kong <wear21@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "showdown": "1.0.x",
+    "katex": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wear/showdown-katex.git"
+  }
+}
